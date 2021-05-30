@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
@@ -28,7 +27,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-AA3333?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
 
+</div>

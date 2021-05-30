@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Lee-ChongMyeong/Lee-ChongMyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
 지금은 Node.js를 공부하고 있어요 🌱 <br>

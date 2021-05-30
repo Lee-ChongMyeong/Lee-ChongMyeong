@@ -3,9 +3,10 @@
 <br>
 
 <div align=center style="display:flex">
-How to reach me? 🤔
+## How to reach me? 🤔
+<br>
 
-- 📮  **Cleverlee's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlchdaud1327@gmail.com)](mailto:dlchdaud1327@gmail.com)
+📮  **Cleverlee's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlchdaud1327@gmail.com)](mailto:dlchdaud1327@gmail.com)
 <br>
 </p>
 

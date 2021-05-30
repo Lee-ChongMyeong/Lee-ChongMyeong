@@ -13,8 +13,9 @@
 
 <h3 align=center>✨ Tech Stack</h3>
 <div align=center style="display:flex">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
 <br>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -31,7 +32,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
+
 
 
 

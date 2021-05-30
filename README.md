@@ -1,10 +1,6 @@
 
 <h3 align="center">Hi there 👋</h3>
-<p align="center">
- - 💻   **I'm a Back-end Develover**    
 
- - 🇰🇷  **I'm currently in South Korea**
-</P
 
 
 <div align="center" style="display:flex">

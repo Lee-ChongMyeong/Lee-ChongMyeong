@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=ChongMyeong-Lee&color=random)
+![header](https://capsule-render.vercel.app/api?type=waving&text=ChongMyeong-Lee&color=random&fontSize=40)
 
 <div align=center style="display:flex">
 

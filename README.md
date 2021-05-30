@@ -12,7 +12,7 @@
 
 <div align="center" style="display:flex">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-ChongMyeong&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 </div>
 

@@ -2,7 +2,7 @@
 <h3 align="center">Hi there 👋</h3>
 <br>
 
-<p align=center>
+<div align=center style="display:flex">
 ### How to reach me? 🤔
 
 - 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlchdaud1327@gmail.com)](mailto:dlchdaud1327@gmail.com)

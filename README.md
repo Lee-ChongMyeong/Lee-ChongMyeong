@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+
 
 <div align=center style="display:flex">
+![header](https://capsule-render.vercel.app/api?type=waving)
 <h3 align="center">Hi there 👋</h3>
 <p align="center">
 I'm ChongMYeong-Lee, I am currently studying Node.js 🌞 <br>

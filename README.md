@@ -4,16 +4,12 @@
 지금은 Node.js를 공부하고 있어요 🌱 <br>
 누구든지 소통하고 얘기하는 것을 좋아해요! 😄 <br>
 
-<h3 align=center>🖋 Blog<br>
-  <a href="https://velog.io/@jguuun" target='_blank'>
-    <img align=center src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/>
-  </a>
-</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
 
 
 <h3 align=center>✨ Tech Stack</h3>
 <div align=center style="display:flex">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
+
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>

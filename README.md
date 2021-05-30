@@ -1,8 +1,13 @@
 
 
 <div align=center style="display:flex">
+<h3 align="center">Hi there 👋</h3>
+<p align="center">
+I'm ChongMYeong-Lee, I am currently studying Node.js <br>
+ Learn while Doing, at Everything😄 <br>
+    </p>
+
 <h3> How to reach me? 🤔</h3>
-<br>
 
 📮  **Cleverlee's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlchdaud1327@gmail.com)](mailto:dlchdaud1327@gmail.com)
 </p>

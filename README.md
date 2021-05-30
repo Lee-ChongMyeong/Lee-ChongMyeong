@@ -1,5 +1,6 @@
 
 <h3 align="center">Hi there 👋</h3>
+I am currently studying Node.js
 <br>
 
 <div align=center style="display:flex">

@@ -4,9 +4,17 @@
 지금은 Node.js를 공부하고 있어요 🌱 <br>
 누구든지 소통하고 얘기하는 것을 좋아해요! 😄 <br>
 
-<div align=center style="display:flex">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
+
+
+<div align="center" style="display:flex">
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+
 </div>
+
+
+
+
 
 <h3 align=center>✨ Tech Stack</h3>
 <div align=center style="display:flex">

@@ -3,7 +3,7 @@
 <br>
 
 <div align=center style="display:flex">
-<span> ## How to reach me? 🤔</span>
+<h3> ## How to reach me? 🤔</h3>
 <br>
 
 📮  **Cleverlee's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlchdaud1327@gmail.com)](mailto:dlchdaud1327@gmail.com)

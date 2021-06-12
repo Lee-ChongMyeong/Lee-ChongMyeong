@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&text=ChongMyeong-Lee&color=random&fontAlign=70&fontSize=40&fontColor=ffffff&animation=blink&height=130)
 
-<div align=center style="display:flex">
+<div align=center style="display:flex"> 
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">

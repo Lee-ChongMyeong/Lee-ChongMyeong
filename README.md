@@ -5,7 +5,7 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center"> 
 I'm ChongMYeong-Lee, I am currently studying Node.js 🌞 <br> 
- Learn while Doing, at Everything😄 <br>
+ Learn while Doing, at Everything😄 <br> 
     </p>
 
 <h3> How to reach me? 🤔</h3>

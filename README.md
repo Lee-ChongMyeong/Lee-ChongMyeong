@@ -47,6 +47,7 @@ I'm ChongMYeong-Lee, I am currently studying Node.js 🌞 <br>
 <br>
 <img src="https://img.shields.io/badge/Java-AA3333?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
 </div>
